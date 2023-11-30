@@ -20,7 +20,7 @@ See the individual part drawings for more detail on printing and fabricating the
 
 Operation: Researchers can physically mount the treadmill and place the mouse on top of it. Some training is required of the mouse. 
 
-Maintenance: The belts need to be cleaned regularly to keep them turning smoothly. If there is enough space in your rig other options such as the cylindrical treadmill are good options that do not require as much maintenance. 
+Maintenance: The belts need to be cleaned regularly to keep them turning smoothly. Many users have spare belts that they swap between. If there is enough space in your rig other options such as the cylindrical treadmill are good options that do not require as much maintenance. 
 
 Opportunity: Free to make for Non-Profit Research by downloading the design here or on FLintbox. 
 
