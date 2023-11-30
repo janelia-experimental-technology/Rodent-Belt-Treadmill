@@ -16,7 +16,7 @@ The belt is seamed together using a heat sealer such as this one from Amazon:
 Teflon tape used to hold the belt halves in position:
 http://catalog.cshyde.com/keyword/s-ptfe-teflon-products-ptfe-teflon-tapes-4/skived-high-density-ptfe-tape-with-silicone?key=all&&keyword=R233&SchType=2
 
-See the individual part drawings for more detail on printing and fabricating the parts as well as the assembly drawing to see how it all goes together. 
+See the individual part drawings for more detail on printing and fabricating each parts. See the attached assembly drawing for the BOM including purchased commercial items needed to complete the treadmill. 
 
 Operation: Researchers can physically mount the treadmill and place the mouse on top of it. Some training is required of the mouse. 
 
