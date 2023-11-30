@@ -22,9 +22,9 @@ Operation: Researchers can physically mount the treadmill and place the mouse on
 
 Maintenance: The belts need to be cleaned regularly to keep them turning smoothly. Many users have spare belts that they swap between. If there is enough space in your rig other options such as the cylindrical treadmill are good options that do not require as much maintenance. 
 
-Opportunity: Free to make for Non-Profit Research by downloading the design here or on FLintbox. 
+Opportunity: Free to make for Non-Profit Research by downloading the design here or on Flintbox. See included hardware license. 
 
-Rights and designs available for Commercial License, Licensed Commercial Source - Janelia makes no endorsements or guarantees of licensee products.
+Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products.
 
 For inquiries, please contact innovation@janelia.hhmi.org and reference: Janelia 2017-049
 https://hhmi.flintbox.com/technologies/5e4af2a5-6154-4bc0-a10d-56b5b6dce978
