@@ -28,3 +28,6 @@ Rights and designs available for Commercial License. Janelia makes no endorsemen
 
 For inquiries, please contact innovation@janelia.hhmi.org and reference: Janelia 2017-049
 https://hhmi.flintbox.com/technologies/5e4af2a5-6154-4bc0-a10d-56b5b6dce978
+
+To cite the designs, please use DOI:  https://doi.org/10.25378/janelia.24691311
+
