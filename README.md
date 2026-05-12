@@ -1,7 +1,7 @@
 # Rodent-Belt-Treadmill
 Low friction belt treadmill for use in space constrained experimental rigs
 
-Designed at HHMI's Janelia research campus by the jET team, this treadmill is relatively small and inexpensive compared to most existing designs. It is manually driven with an encoder which tracks the movement of the belt. The encoder does not have to be connected, unless it is desired to record or analyze the motion. Encoder interfaces are documented in a separate repository and on Flintbox.
+Designed at HHMI's Janelia research campus by the jET team, this treadmill is relatively small and inexpensive compared to most existing designs. It is manually driven with an encoder which tracks the movement of the belt. The encoder does not have to be connected, unless it is desired to record or analyze the motion. Encoder interfaces are documented in a separate repository here: https://github.com/janelia-experimental-technology/Treadmill-Interface as the interface may be used with multiple treadmill types.
 
 It may be used for natural action (e.g., walking) for the mouse to take during an experiment instead of standing still. For example, some users let the mice walk normally on the treadmill and then play a tone the mouse associates with a trained response to see if the mouse will start or stop moving.
 
